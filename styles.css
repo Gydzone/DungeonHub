@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    background: #00ffff;
+    color: #0f141e;
+
+    /* font-size: 16px; */
+    /* font-weight: normal; */
+    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+    /* font-family: 'Roboto', sans-serif; */
+    font: normal 16.12px 'Roboto', sans-serif;
+
+}
+.bobo {
+    width: 200px;
+    border-radius: 20px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 25);
+}
+.info p {
+    color: #000000;
+    margin: 0;
+    font-style: normal;
+    /* letter-spacing: 1px; */
+    /* word-spacing: normal; */
+}
+.cont {
+    max-width: 78%;
+    margin: auto;
+}
+
+/* model  */
+.oli {
+    background-color: green;
+}
